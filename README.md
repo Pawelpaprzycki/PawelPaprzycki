@@ -13,7 +13,18 @@ the team.
 
 
 ### :zap: Group Projects:
-* ✅COMPLETED✅ A master data management system: [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
+✅COMPLETED✅ A master data management system: [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
+
+    My tasks was:
+    
+    ▶️ Creating a Graphical User Interface for the use of Project Managers when
+     they try to assemble a new team for a client. Django App with CRUD
+     database operations allows users to browse the records, filtration, sorting, a user
+     interface to identify relevant employees.
+     
+    ▶️ Scraping job offers and persist them in document db:
+        ◦ from justjoin.it by API and Selenium
+        ◦ from theprotocol.it by BeautifulSou
 
 
 <h3 align="left">Languages and Tools:</h3>
