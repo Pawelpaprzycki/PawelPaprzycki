@@ -12,19 +12,26 @@ the team.
 - 👨‍💻 My Linkedin [https://www.linkedin.com/in/pawe%C5%82-paprzycki/](https://www.linkedin.com/in/pawe%C5%82-paprzycki/)
 
 
-### :zap: Group Projects:
-✅COMPLETED✅ A master data management system: [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
+# :zap: Group Projects:
+## **✅COMPLETED✅ <br>**
+### **A master data management system: [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)**
 
-    My tasks was:
-    
-    ▶️ Creating a Graphical User Interface for the use of Project Managers when
-     they try to assemble a new team for a client. Django App with CRUD
-     database operations allows users to browse the records, filtration, sorting, a user
-     interface to identify relevant employees.
-     
-    ▶️ Scraping job offers and persist them in document db:
-        ◦ from justjoin.it by API and Selenium
-        ◦ from theprotocol.it by BeautifulSou
+My tasks was:
+
+▶️ Creating a Graphical User Interface for the use of Project Managers when
+ they try to assemble a new team for a client. Django App with CRUD
+ database operations allows users to browse the records, filtration, sorting, a user
+ interface to identify relevant employees.<br>
+[Django App in Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform/tree/master/wdp/team_staffer/team_staffer)<br> 
+
+
+▶️ Scraping job offers and persist them in document db:<br>
+[Scrapers in Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform/tree/master/research)<br> 
+◦ from justjoin.it by API and Selenium<br> 
+[Justjoin.it-WEB-Scraper-API](https://github.com/Pawelpaprzycki/Justjoin.it-WEB-Scraper-API)<br> 
+[Justjoin.it-WEB-Scraper-Selenium](https://github.com/Pawelpaprzycki/Justjoin.it-WEB-Scraper-Selenium)<br>
+◦ from theprotocol.it by BeautifulSoup<br>
+[theprotocol.it-WEB-Scraper-BS](https://github.com/Pawelpaprzycki/theprotocol.it-WEB-Scraper-BS)<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
